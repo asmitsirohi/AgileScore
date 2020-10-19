@@ -1,9 +1,3 @@
-/*****************************************/
-//API Key from https://www.cricapi.com
-
-let apikey = '[Enter Your API Key Here]';
-/*****************************************/
-
 let team1 = 'team-1';
 let team2 = 'team-2';
 let tossTeam1 = '';
